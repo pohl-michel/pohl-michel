@@ -1,6 +1,6 @@
 ### Hello world 👋
 
-My name is Michel, and I am a machine learning engineer / research scientist living in Tokyo. :robot: :tokyo_tower:
+My name is Michel, and I am a machine learning engineer / research scientist living in the UK. :uk: :guardsman: :umbrella: 
 
 I thought that I could introduce myself using some Python code below :technologist: :zany_face:
 
@@ -23,12 +23,12 @@ Here are some ideas to get you started:
 
 
 ```python
-class FrogInTokyo:
+class FrogInOxford:
 
     def __init__(self):
         self.name = "Michel"
         self.nationality = "French"
-        self.location = "Tokyo"
+        self.location = "Oxford"
         self.eager_to_connect = True
         self.eager_to_help = True
         self.joke_success_rate = 0.5
@@ -40,10 +40,10 @@ class FrogInTokyo:
         self.skills = {}
 
     def work(self):
-        self.current_project.name = "Deep learning for finance"
-        self.current_project.organization = "Sony Computer Science Laboratories"
-        self.current_project.tools = ["Deep generative modeling", "Python", "Tensorflow", "Pandas"]
-        self.current_project.start = datetime(year=2022, month=6, day=1)
+        self.current_project.name = "AI for interstitial lung disease detection and treatment"
+        self.current_project.organization = "Brainomix"
+        self.current_project.tools = ["Machine learning", "Python", "Scikit-learn", "Pandas", "Docker"]
+        self.current_project.start = datetime(year=2022, month=12, day=12)
 
         self.side_project.name = "MRI chest image prediction for radiotherapy"
         self.side_project.tools = ["Online learning of neural networks", "Video prediction", "Matlab"]
@@ -55,9 +55,9 @@ class FrogInTokyo:
 
     def code(self):
         self.skills["Primary knowledge"] = ["Computer vision", "Machine learning", "Deep learning", "Statistics",
-                                            "Research", "Math"]
+                                            "Research", "Math", "Healthcare", "Finance"]
         self.skills["Other interests"] = ["Natural language processing", "Reinforcement learning", "Robotics"]
-        self.skills["Tools"] = ["Python", "Tensorflow", "Linux", "C", "Matlab"]
+        self.skills["Tools"] = ["Python", "Tensorflow", "Pytorch", "Docker", "Linux", "C", "Matlab"]
 ```
 
 
