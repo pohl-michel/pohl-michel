@@ -29,10 +29,9 @@ class FrogInOxford:
         self.name = "Michel"
         self.nationality = "French"
         self.location = "Oxford"
-        self.eager_to_connect = True
+        self.previous_location = "Tokyo"
         self.eager_to_help = True
         self.joke_success_rate = 0.5
-        self.linkedIn = "https://www.linkedin.com/in/michelpohl/"  # Don't hesitate to connect!
 
         self.current_project = {}
         self.side_project = {}
