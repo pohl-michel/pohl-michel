@@ -27,7 +27,6 @@ class FrogInOxford:
 
     def __init__(self):
         self.name = "Michel"
-        self.nationality = "French"
         self.location = "Oxford"
         self.previous_location = "Tokyo"
         self.eager_to_help = True
@@ -39,13 +38,13 @@ class FrogInOxford:
         self.skills = {}
 
     def work(self):
-        self.current_project.name = "AI for interstitial lung disease detection and treatment"
-        self.current_project.organization = "Brainomix"
-        self.current_project.tools = ["Machine learning", "Python", "Scikit-learn", "Pandas", "Docker"]
-        self.current_project.start = datetime(year=2022, month=12, day=12)
+        self.current_project["name"] = "AI for interstitial lung disease detection and treatment"
+        self.current_project["organization"] = "Brainomix"
+        self.current_project["tools"] = ["Machine learning", "Python", "Scikit-learn", "Pandas", "Docker"]
+        self.current_project["start"] = datetime(year=2022, month=12, day=12)
 
-        self.side_project.name = "MRI chest image prediction for radiotherapy"
-        self.side_project.tools = ["Online learning of neural networks", "Video prediction", "Matlab"]
+        self.side_project["name"] = "MRI chest image prediction for radiotherapy"
+        self.side_project["tools"] = ["Online learning of neural networks", "Video prediction", "Matlab"]
 
     def speak(self):
         self.languages[0] = {"language": "French", "proficiency": "Native"}
