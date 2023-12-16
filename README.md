@@ -34,8 +34,6 @@ class FrogInOxford:
 
         self.current_project = {}
         self.side_project = {}
-        self.languages = []
-        self.skills = {}
 
     def work(self):
         self.current_project["name"] = "AI for interstitial lung disease detection and treatment"
@@ -46,16 +44,6 @@ class FrogInOxford:
         self.side_project["name"] = "MRI chest image prediction for radiotherapy"
         self.side_project["tools"] = ["Online learning of neural networks", "Video prediction", "Matlab"]
 
-    def speak(self):
-        self.languages[0] = {"language": "French", "proficiency": "Native"}
-        self.languages[1] = {"language": "English", "proficiency": "Fluent"}
-        self.languages[2] = {"language": "Japanese", "proficiency": "Business level"}
-
-    def code(self):
-        self.skills["Primary knowledge"] = ["Computer vision", "Machine learning", "Deep learning", "Statistics",
-                                            "Research", "Math", "Healthcare", "Finance"]
-        self.skills["Other interests"] = ["Natural language processing", "Reinforcement learning", "Robotics"]
-        self.skills["Tools"] = ["Python", "Tensorflow", "Pytorch", "Docker", "Linux", "C", "Matlab"]
 ```
 
 
