@@ -2,6 +2,8 @@
 
 My name is Michel, and I am a machine learning engineer / research scientist living in the UK. :uk: :guardsman: :umbrella: 
 
+My passion is deep learning!
+
 I thought that I could introduce myself using some Python code below :technologist: :zany_face:
 
 Favorite weird food combo: avocado, mango, and shrimp salad :avocado:	:mango: :fried_shrimp:
