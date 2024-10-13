@@ -51,7 +51,7 @@ class FrogInOxford:
 
 ### Some of my previous open-source works:
 
-| [Deformable 3D image registration with Lucas-Kanade pyramidal optical flow](https://github.com/pohl-michel/Lucas-Kanade-pyramidal-optical-flow-for-3D-image-sequences) | [Time series forecasting with online learning of recurrent neural networks](https://github.com/pohl-michel/time-series-forecasting-with-UORO-RTRL-LMS-and-linear-regression) |
+| [Deformable 3D image registration with Lucas-Kanade pyramidal optical flow](https://github.com/pohl-michel/Lucas-Kanade-pyramidal-optical-flow-for-3D-image-sequences) | [Time series forecasting with online learning of recurrent neural networks](https://github.com/pohl-michel/2D-MR-image-prediction/tree/main/Time_series_forecasting) |
 | :--- | :---|
 | Calculation of the motion of a lung tumor due to breathing using optical flow. | Prediction of the position of external markers on the chest to guide the radiation beam during lung radiotherapy. This will help compensate the latency of treatment systems and reduce irradiation to healthy tissues.|
 | <img src="https://github.com/pohl-michel/Lucas-Kanade-pyramidal-optical-flow-for-3D-image-sequences/blob/master/3DOF_4DCT.gif" width="50%" height="50%"/> | <img src="https://github.com/pohl-michel/time-series-forecasting-with-UORO-RTRL-LMS-and-linear-regression/blob/main/prediction_UORO.png"/> |
