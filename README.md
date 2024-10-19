@@ -33,7 +33,7 @@ Here are some ideas to get you started:
       <img src="https://github.com/pohl-michel/2D-MR-image-prediction/blob/main/Image_prediction/visualization/4.%20sq%20sl014%20sag%20Xcs%3D165%20SnAp-1%20k%3D6%20q%3D110%20eta%3D0.01%20sg%3D0.02%20h%3D6%203%20cpts_t%3D181_to_200_cropped.gif" style="max-width: 70%; height: auto;"/> </td> 
     <td style="padding: 10px; vertical-align: top;">
       <p style="margin-top: 0;">Calculation of the 3D motion of a lung tumor due to breathing using optical flow. </p>
-      <img src="https://github.com/pohl-michel/Lucas-Kanade-pyramidal-optical-flow-for-3D-image-sequences/blob/master/3DOF_4DCT.gif" style="max-width: 70%; height: auto;"/> </td>
+      <img src="https://github.com/pohl-michel/Lucas-Kanade-pyramidal-optical-flow-for-3D-image-sequences/blob/master/3DOF_4DCT_111_HM10395.gif" style="max-width: 70%; height: auto;"/> </td>
   </tr>
   <tr>
     <th colspan="2" style="padding: 10px; word-wrap: break-word;"> <a href="https://github.com/pohl-michel/2D-MR-image-prediction/tree/main/Time_series_forecasting" target ="_blank">Time series forecasting with online learning of recurrent neural networks</a> </th>
