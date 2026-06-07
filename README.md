@@ -1,4 +1,4 @@
-Welcome to my GitHub page! My experience spans computer vision, natural language processing, graph machine learning, and time-series forecasting. I am particularly interested in online learning, transformers for sequence modeling, video prediction, and generative AI. I currently work at Brainomix (Oxford, UK), where I explore machine learning for computer-aided diagnosis of interstitial lung diseases.
+Welcome to my GitHub page! My experience spans computer vision, natural language processing, graph machine learning, and time-series forecasting. I am particularly interested in online learning, sequence modeling with transformers, video prediction, and generative AI. I currently work at Brainomix (Oxford, UK), where I explore machine learning for computer-aided diagnosis of interstitial lung diseases.
 
 <!--
 **pohl-michel/pohl-michel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
