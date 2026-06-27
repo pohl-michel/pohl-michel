@@ -36,7 +36,7 @@ Here are some ideas to get you started:
       <img src="https://github.com/pohl-michel/Lucas-Kanade-pyramidal-optical-flow-for-3D-image-sequences/blob/master/3DOF_4DCT_111_HM10395.gif" style="max-width: 70%; height: auto;"/> </td>
   </tr>
   <tr>
-    <th colspan="2" style="padding: 10px; word-wrap: break-word;"> <a href="https://github.com/pohl-michel/2D-MR-image-prediction/tree/main/Time_series_forecasting" target ="_blank">Time-series forecasting using RNNs trained online and transformers</a> </th>
+    <th colspan="2" style="padding: 10px; word-wrap: break-word;"> <a href="https://github.com/pohl-michel/2D-MR-image-prediction/blob/main/Time_series_forecasting/README.md" target ="_blank">Time-series forecasting using RNNs trained online and transformers</a> </th>
   </tr>
   <tr>
     <td colspan="2" style="padding: 10px; vertical-align: top;"> 
